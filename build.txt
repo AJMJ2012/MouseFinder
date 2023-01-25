@@ -1,0 +1,2 @@
+author = Dark-Assassin
+displayName = Mouse Finder
